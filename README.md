@@ -8,3 +8,6 @@
 Voici comment faire : Fichier \ Préférences \ Interface \ Curseur de lecture => Métronome
 
 ```
+
+
+* https://www.guitar-pro.com/fr/blog/p/30062-astuces-guitar-pro-7
