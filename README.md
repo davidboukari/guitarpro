@@ -9,8 +9,10 @@ Voici comment faire : Fichier \ Préférences \ Interface \ Curseur de lecture =
 
 ```
 
-
 * https://www.guitar-pro.com/fr/blog/p/30062-astuces-guitar-pro-7
 
 ## Add Text 
 * Click anywhere and press t => then Enter the text
+
+## Set look to partitions
+* https://www.guitar-pro.com/fr/blog/p/16805-tuto-10-astuces-pour-donner-un-look-pro-a-vos-partitions-dans-guitar-pro
