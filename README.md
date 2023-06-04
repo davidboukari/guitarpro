@@ -21,3 +21,8 @@ Voici comment faire : Fichier \ Préférences \ Interface \ Curseur de lecture =
 
 <img width="149" alt="image" src="https://github.com/davidboukari/guitarpro/assets/32338685/9828c2c5-ffcc-4a7b-8cc5-9529fc8934db">
 
+## Display tablature or not
+
+<img width="158" alt="image" src="https://github.com/davidboukari/guitarpro/assets/32338685/59f42cfa-7d1c-4c7f-9791-7d2ca17b399f">
+
+
