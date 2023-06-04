@@ -16,3 +16,8 @@ Voici comment faire : Fichier \ Préférences \ Interface \ Curseur de lecture =
 
 ## Set look to partitions
 * https://www.guitar-pro.com/fr/blog/p/16805-tuto-10-astuces-pour-donner-un-look-pro-a-vos-partitions-dans-guitar-pro
+
+## Change tunning (accordage)
+
+<img width="149" alt="image" src="https://github.com/davidboukari/guitarpro/assets/32338685/9828c2c5-ffcc-4a7b-8cc5-9529fc8934db">
+
